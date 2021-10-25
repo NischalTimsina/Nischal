@@ -188,10 +188,6 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 1054px;
-  }
-
   .u-section-2 .u-text-1 {
     margin-top: 71px;
     margin-right: 32px;
